@@ -2,3 +2,5 @@
 .env
 venv/
 test_app.py
+.streamlit
+
