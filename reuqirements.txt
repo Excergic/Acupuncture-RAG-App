@@ -8,3 +8,4 @@ faiss-cpu
 streamlit
 torch
 langchain-huggingface
+time
